@@ -1,0 +1,758 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"bx-",
+				"bx-next"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"comen",
+				"comentario"
+			],
+			[
+				"coment",
+				"Comentarios"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"distri",
+				"distribuicion"
+			],
+			[
+				"c",
+				"col"
+			],
+			[
+				"li",
+				"libro"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"a",
+				"avatarautor"
+			],
+			[
+				"autores",
+				"autores_"
+			],
+			[
+				"auo",
+				"autores"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"auto",
+				"autor"
+			],
+			[
+				"time",
+				"time-capsule"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"image",
+				"background-image"
+			],
+			[
+				"launch",
+				"launchdata"
+			],
+			[
+				"template",
+				"template_directory"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"backgroun",
+				"background-repeat"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"foot",
+				"foot-address"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"url",
+				"stylesheet_url"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"conten",
+				"contenedor-footer"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"blue",
+				"blue-timing"
+			],
+			[
+				"form",
+				"form-container"
+			],
+			[
+				"op",
+				"open_sansregular"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"hoe",
+				"hover"
+			],
+			[
+				"pa",
+				"panel-body"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"MARGIN",
+				"margin-top"
+			],
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"col",
+				"colBig"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/agunsa/header.php",
+			"settings":
+			{
+				"buffer_size": 5249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/agunsa/cfix.css",
+			"settings":
+			{
+				"buffer_size": 4920,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/upmedia/GitHub/agnsa/agunsa.sublime-project",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/single-resenas.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/archive-resenas.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/functions.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/page.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/header.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/sidebar-content.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/css/bootstrap.css",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/footer.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/template-sobreacto.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/single-novedades.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/template-distribuicion.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/archive-product.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/meta.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/product-attributes.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/content-product_cat.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/review.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/taxonomy-autores.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/related.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/short-description.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/tabs/additional-information.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/tabs/description.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/tabs/tabs.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/template-contact.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/archive-actividades.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/index.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/sobre-acto.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/page-63.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/archive-novedades.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/template-autores.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/content.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/title.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/css/layout.css",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/templates/loop/result-count.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/product-image.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/product-thumbnails.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/price.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/includes/theme-woocommerce.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/single-actividades.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/includes/admin/views/html-admin-page-addons.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/templates/loop/loop-start.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/style.css",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/sale-flash.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/templates/single-product-reviews.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/rating.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/up-sells.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/add-to-cart/grouped.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/add-to-cart/simple.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/archive.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/layout.css",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/add-to-cart/variable.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/woocommerce/single-product/add-to-cart/external.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/template-archives.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/templates/loop/sale-flash.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/css/bootstrap.min.css",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/includes/class-wc-cart.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/template-blog.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/template-actividades.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/template-resenas.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/contentact.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/contentnov.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/template-novedades.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/wp-maintenance-mode/assets/css/style-admin.css",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/wp-maintenance-mode/assets/css/style.css",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/includes/theme-options.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/includes/theme-functions.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/contentresena.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/wp-maintenance-mode/assets/css/index.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/wp-maintenance-mode/includes/index.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/wp-maintenance-mode/index.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/single.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/functions/admin-hooks.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/sidebar.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/template-fullwidth.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/content-search.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/includes/theme-widgets.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/includes/widgets/widget-woo-adspace.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-includes/widgets.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/includes/widgets/widget-woo-blogauthor.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/includes/theme-actions.php",
+		"/Users/upmedia/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/theme_info.txt",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/template-timeline.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/functions/admin-init.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/template-imagegallery.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/comments.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/changelog.txt",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/includes/theme-plugin-integrations.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/styles/default.css",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/themes/mystile/styles/green.css",
+		"/Users/upmedia/Desktop/Acto Editores Font Pack/webfontkit-20141105-085628/stylesheet.css",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/templates/single-product.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/templates/single-product/up-sells.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/templates/content-product.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/templates/content-single-product.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/templates/archive-product.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/templates/single-product/product-attributes.php",
+		"/Users/upmedia/GitHub/ACTO_WP/wp-content/plugins/woocommerce 2/templates/single-product/price.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/columna_32.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/receta_de_la_semana_43.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/recetas_todos.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/recetas_menu.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/receta_de_la_semana_41.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/receta_de_la_semana.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/receta_de_la_semana_a.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/receta_de_la_semana_42.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/receta_de_la_semana_36.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/as_lateral.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/recetas_plato_fondo.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/columna_34.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/noticia_2014_junio_09_00.php",
+		"/Users/upmedia/Desktop/Sitio Alimentate Sano/index.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/formulario/php/enviar-landing.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/formulario/php/enviar_admision.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/style.css",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/tpl_admision.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/.htaccess",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/tpl_admision_2.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/tpl_egresados_inicio.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/single.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/tpl_acreditacion.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/header.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/footer.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/header-egresados.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/error_log",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/.htaccess-bak",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/archive.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<wp-content>",
+			"<ACTO_WP>",
+			"<folders>",
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=\"tabs\"",
+			"label",
+			"avatarautor",
+			"catalogue",
+			"news",
+			"auxiliares",
+			".home-bg",
+			"$linkautor",
+			"$autores",
+			"class=\"sku_wrapper\"",
+			"auxiliares",
+			"Añadir al carro",
+			"class=\"col-md-4 pleft0 pd0mob\"",
+			"$product",
+			"product",
+			"<?php wc_get_template_part( 'content', 'product' ); ?>",
+			"woocommerce_product_loop_start",
+			"woocommerce columns-",
+			"woocommerce columns-4",
+			"woocommerce_before_shop_loop",
+			"shop",
+			"<div id=\"main\" class=\"col-left\">\nclass=\"col-left\"\n<div id=\"main\" ",
+			"<div id=\"main\" class=\"col-left\">\nclass=\"col-left\">\n<div id=\"main\" ",
+			"<div id=\"main\" class=\"col-left\">\n<div id=\"main\" class=\"col-left\">\n<div id=\"main\" ",
+			"<div id=\"main\" class=\"col-left\">\n<div id=\"main\" class=\"col-left\">\n<div id=\"main\" class=\"col-left\">",
+			"class=\"woocommerce-result-count\"",
+			"hola! soy un producto",
+			"auxiliares",
+			"col-md-4 pleft0",
+			"class=\"minus\"",
+			"<span class=\"price\">",
+			"hola! soy un producto",
+			"hajshkaljdhaksjhdlkajshdklajshdlk ajshd klajshdlkajshd kajsh",
+			"Featured Products",
+			"class=\"col-md-12\"",
+			"columns-4<div class=\"col-md-12\">\n\n				    \n<section class=\"col-full\">  ",
+			"class=\"woocommerce ",
+			"columns-4",
+			"class=\"woocommerce columns-4\"",
+			"auxiliares",
+			"@media",
+			"class=\"product\"",
+			"product type-product status-publish has-post-thumbnail first sale shipping-taxable purchasable product-type-simple",
+			"class=\"products\"",
+			"class=\"woocommerce-result-count\"",
+			"id=\"reviews\"",
+			"cart-icon",
+			"price ins",
+			"price del",
+			"left",
+			"class=\"images\"",
+			"images",
+			".woocommerce-tabs .panel",
+			"tab-reviews",
+			"col-left",
+			"onsale",
+			"shop",
+			"itemscope",
+			"a",
+			"auxili",
+			"entry",
+			"thumbnail",
+			"woocommerce-result-count",
+			"woo_loop_before",
+			"post-content",
+			"woo_post_meta",
+			"woo_pag",
+			"woo_pagenav",
+			"next_posts_link",
+			"woo_pagination",
+			"woo_pagination_type",
+			"next_posts_link",
+			"woo_pagenav",
+			"woo_pagination_args",
+			"pagination woo-pagination",
+			"next page-numbers",
+			"pagination woo-pagination",
+			"next",
+			"comments",
+			"LEAVE A COMMENT",
+			"cart-parent",
+			"meta",
+			"breadcrumbs",
+			"entry",
+			"post-16",
+			"post-16 page type-page status-publish hentry",
+			"white",
+			"aux",
+			"wrap",
+			"header-wrap",
+			"col-md-esp",
+			"item",
+			"col-md",
+			"amount",
+			"@media",
+			"define ('WPLANG'",
+			"tip_semana",
+			"ipchile",
+			"ipcchile",
+			"error",
+			"id",
+			"errorSede",
+			"$origen",
+			"enviado",
+			"enviado desde",
+			"btn-chat",
+			"wp_paginate",
+			"row marginTop3 marginBottom3",
+			"google",
+			"menu-jurisprudencia",
+			"nav-eventos",
+			"box-base",
+			"wp_nav_menu",
+			"menu-menu-1",
+			"wp_nav_menu",
+			".panel-default>.panel-heading",
+			"data-parent",
+			"data-parent=",
+			"data-parent=\"accordion\"",
+			"collapse",
+			"caracteristicas_cancer",
+			"accordion",
+			"url(",
+			"url()",
+			".panel-default>.panel-heading",
+			".panel-default>",
+			".panel-default>.panel-heading",
+			".panel-heading"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/agunsa/header.php",
+					"settings":
+					{
+						"buffer_size": 5249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								880,
+								888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "wp-content/themes/agunsa/cfix.css",
+					"settings":
+					{
+						"buffer_size": 4920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4916,
+								4916
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 178.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true
+}

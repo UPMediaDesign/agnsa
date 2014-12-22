@@ -1,0 +1,51 @@
+/* Estilos de revisión UX/UI */
+
+/* Navegación */
+#menu-navegacion li a:hover, #menu-navegacion li.current-menu-item a, #menu-navegacion li .sub-menu li a:hover{-webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
+#menu-navegacion li .sub-menu li:hover{-webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; }
+.bx-wrapper .bx-controls-direction a, .bx-wrapper .bx-next:hover{ -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out;}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{color:#373737; text-decoration: underline; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out;}
+
+.searchh form input{border-top: 1px solid transparent; border-left: 1px solid transparent; border-right: 1px solid transparent; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out;}
+.searchh form input:hover, .searchh form input:focus{border: 1px solid rgba(255, 255, 255, 0.6); -webkit-box-shadow: 0px 0px 3px 0px rgba(255, 255, 255, 0.91); -moz-box-shadow: 0px 0px 3px 0px rgba(255, 255, 255, 0.91); box-shadow: 0px 0px 3px 0px rgba(255, 255, 255, 0.91); -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out;}
+
+button.paisselector .btn-spc:hover{background-color:#c2c2c2; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out;}
+/* Fin Navegación */
+
+/* Boxes */
+.servicios_boxes .boxcontent .link{-webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out;}
+.servicios_boxes .boxcontent .link:hover{background-image: url(images/plushover.png); -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out;}
+.servicios_boxes .boxcontent .link a:hover{color: #e21717; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out;}
+
+#undermain figcaption h4 a:hover{color: #525252; text-decoration: underline; -webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out;}
+/* Fin Boxes */
+
+/* Quienes Somos */
+.insidemenu ul li a,
+.insidemenu ul li a:hover{-webkit-transition: all 0.2s ease-in-out; -moz-transition: all 0.2s ease-in-out; -ms-transition: all 0.2s ease-in-out; -o-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out;}
+.btn-danger, .btn-danger:hover, .btn-danger:focus, .btn-danger:active, .btn-danger.active, .open>.dropdown-toggle.btn-danger{-webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out;}
+
+
+/* Fin Quienes Somos */
+
+/* Nuestros Clientes */
+.bx-controls-direction.bx-next:hover, .bx-prev:hover{ webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; cursor:pointer; }
+
+.section-mini-carousel .bx-wrapper .bx-controls-direction a:hover,
+.section-mini-carousel .bx-wrapper .bx-controls-direction a:focus{color: #f2f2f2; background-color: #e21717; background-image: none !important; text-decoration:none;}
+.bx-controls-direction.bx-next.bx-prev:focus{text-decoration:none;}
+/* Fin Nuestros Clientes */
+
+/* Filiales y Coligadas */
+#filiales p{font-size:13px; text-align:center;}
+/* Fin Filiales y Coligadas */
+
+/* Estilos para traspasar a style.css */
+#footer #menu-footer a{background-position: 0px 5px;}/* Linea 406 */
+.section .flex blockquote h3{margin: 0px 0 5px 0px;}/* Linea 278 */
+.section-mini-carousel h5 {margin-top: 10px !important;}/* Linea 292 (Al cambiar le quitas el !important)*/
+.thumbnail .caption{min-height:160px;}
+
+
+
